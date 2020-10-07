@@ -12,3 +12,10 @@ Collabortion class with Daniel Chen
 - `git fetch --prune`: delete local references to deleted remote branches
 - `git fetch`: updates local references with remote
 - `git branch -d <BRANCH>`: delete local <BRANCH>
+
+
+
+### conflicts
+- update your branches (e.g.  git checkout main; git pull origin main)
+- got ot conflickting branch git checkout
+- git rebase main. | will rebase <branch> again main
