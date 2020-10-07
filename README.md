@@ -7,3 +7,7 @@ Collabortion class with Daniel Chen
 
 - `git branch version-2-branch : call version-2-branch"
 
+- `git branch -a` : shows you all local and remote branches
+- `git checkout <BRANCH>`: switch to the <BRANCH>
+- `git checkout -b <BRANCH>`: swithc to the branch and check out
+
