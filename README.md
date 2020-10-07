@@ -12,3 +12,4 @@ Collabortion class with Daniel Chen
 - `git fetch --prune`: delete local references to deleted remote branches
 - `git fetch`: updates local references with remote
 - `git branch -d <BRANCH>`: delete local <BRANCH>
+--more info
