@@ -19,3 +19,9 @@ Collabortion class with Daniel Chen
 - update your branches (e.g.  git checkout main; git pull origin main)
 - got ot conflickting branch git checkout
 - git rebase main. | will rebase <branch> again main
+
+- `git branch -a` : shows you all local and remote branches
+- `git checkout <BRANCH>`: switch to the <BRANCH>
+- `git checkout -b <BRANCH>`: swithc to the branch and check out
+
+
